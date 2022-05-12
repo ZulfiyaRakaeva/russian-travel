@@ -1,23 +1,29 @@
-# Проект: Путешествие по России
+# The project "Russian travel"
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+## You are presented with the layout of the page "Russian travel".
 
-**Интро**
+The site is adapted for various devices:
+* from standard laptops to infinity;
+* for small laptops;
+* from vertical to horizontal position of the tablet;
+* from a large smartphone to the vertical position of the tablet;
+* mobile devices.
+The project is being processed correctly in various browsers.
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+## Necessary conditions for using the product.
 
-**Figma**
+The site is implemented with knowledge of HTML5 and CSS markup languages.
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+## Requirements for the site user's software.
 
-**Картинки**
+The correct display of the web system cannot be guaranteed if any of the user's software parameters do not meet the requirements listed below:
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+* page viewing scale in the browser: the correct display of the site pages is guaranteed when the scale set in the user's browser is 100%.
+* the number of colors of the user's monitor: at least 16777216 (Truecolor, 32 bits);
+* Browser type: Internet Explorer 8 and above, MozillaFirefox 15 and above, Opera 12 and above, Safari 6 and above, GoogleChrome 21 and above;
+* mobile browsers on tablet devices: By default, the user's browser is set to display images and JavaScript is allowed. When changing the listed standard browser settings, the correct display of the site pages is not guaranteed;
 
-Удачи!
+### Contact information.
+
+Mail: [rakaeva.zulfia@yandex.ru]
+GitHub: [https://github.com/ZulfiyaRakaeva/russian-travel]

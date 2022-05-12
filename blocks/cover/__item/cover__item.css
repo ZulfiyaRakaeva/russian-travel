@@ -1,0 +1,14 @@
+.cover__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  text-decoration: none;
+  color: #ffffff;
+  object-fit: cover;
+}
+
+.cover__item:hover {
+  background: rgba(0, 0, 0, 0.3);
+}

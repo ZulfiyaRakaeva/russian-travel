@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 680px) {
+  .header {
+    max-height: 42px;
+  }
+}
