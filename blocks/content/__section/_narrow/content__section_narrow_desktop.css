@@ -1,4 +1,4 @@
-.content__section_desktop_narrow {
+.content__section_narrow_desktop {
   max-width: calc(984px + 48px*2);
   margin: 0 auto;
 }
