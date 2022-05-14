@@ -7,9 +7,10 @@
   text-decoration: none;
   color: #ffffff;
   object-fit: cover;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgb(42, 44, 47, 0.3);
+
 }
 
 .cover__item:hover {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgb(42, 44, 47, 0.8);
 }
